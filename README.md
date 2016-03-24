@@ -6,7 +6,7 @@
 4. Entry point for small pieces of reading
 
 ### Layout Thoughts
-From top to bottom 
+From top to bottom  <br>
  --------------------------<br>
 |G| Search or URL         |<br>
  ____progress bar ________<br>
