@@ -6,10 +6,10 @@
 4. Entry point for small pieces of reading
 
 ### Layout Thoughts
-From top to bottom
- --------------------------
-|G| Search or URL         |
- ____progress bar ________
-|Social | Search | News   |
- -------------------------
+From top to bottom 
+ --------------------------<br>
+|G| Search or URL         |<br>
+ ____progress bar ________<br>
+|Social | Search | News   |<br>
+ -------------------------<br>
 
